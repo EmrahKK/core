@@ -1,4 +1,4 @@
-name: CI-CD-Worker
+name: amorphie-core-cache-package
 on:
   push:
     branches: [ main ]
